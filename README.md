@@ -45,7 +45,7 @@ SPSS was used to conduct descriptive analysis, correlation analysis, and regress
 
 ### Temperature vs. Log fire size (Figure below):
    Using regression analysis, trend shows higher temperature associated with larger fires, but with high scatter → temperature   matters but is not the sole determinant.
-
+![Temperature vs. Log Fire Size](images/regression-analysis.png)
 
 
 ## Results
@@ -57,3 +57,7 @@ SPSS was used to conduct descriptive analysis, correlation analysis, and regress
 
 ## Conclusion + Recommendation 
 While temperature and wind speed play a role, they are not the only drivers of California wildfires; other factors such as vegetation, topography, and human activity are also important.
+
+
+Note:
+- This project was a group effort by Luisa Garate, Naomi Hossain, Vivi ( Xinyi) He,  Wayne (Weinou) Jin, & Tysean Haigood
