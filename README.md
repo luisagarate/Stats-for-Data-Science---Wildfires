@@ -45,7 +45,7 @@ SPSS was used to conduct descriptive analysis, correlation analysis, and regress
 
 ### Temperature vs. Log fire size (Figure below):
    Using regression analysis, trend shows higher temperature associated with larger fires, but with high scatter → temperature   matters but is not the sole determinant.
-![Temperature vs. Log Fire Size](images/regression-analysis.png)
+![Temperature vs. Log Fire Size](Screenshot 2026-09-20 183457.png)
 
 
 ## Results
